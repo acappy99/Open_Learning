@@ -7,3 +7,4 @@
 [https://www.freecodecamp.org/learn]
 - Scientific computing with python
 - Data analysis with Python
+- Machine learning with Python
