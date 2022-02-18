@@ -19,3 +19,5 @@ In this repository are my resources, courses, notes, exercises, and projects. Fo
 
 ## Organization of this project
 
+Each language I am learning is contained in a folder, including a README.md for tasks and progress, quick references for that language, and import notes. Within each language folder will contain folders for course notes, exercises, and projects. Sometimes some special folders and documents will be created for various needs.
+
