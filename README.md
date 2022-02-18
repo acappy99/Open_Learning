@@ -18,3 +18,4 @@ In this repository are my resources, courses, notes, exercises, and projects. Fo
 - Solidity
 
 ## Organization of this project
+
