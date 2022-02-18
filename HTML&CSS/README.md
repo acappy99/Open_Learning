@@ -11,5 +11,12 @@
 | Paragraphs | Complete |
 | Styles | Complete |
 | Formatting | Complete |
-
-
+| Quotations | Upcoming |
+| Comments | Upcoming |
+| Colors | Upcoming |
+| CSS | Upcoming |
+| Links | Upcoming |
+| Images | Upcoming |
+| Favicon | Upcoming |
+| Tables | Upcoming |
+| Lists | Upcoming |
