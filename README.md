@@ -13,6 +13,7 @@ In this repository are my resources, courses, notes, exercises, and projects. Fo
 ## Goals
 - Python
 - SQL
+- Git and GitHub
 - HTML & CSS
 - JavaScript
 - Solidity
