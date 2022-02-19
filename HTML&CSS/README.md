@@ -11,8 +11,8 @@
 | Paragraphs | Complete |
 | Styles | Complete |
 | Formatting | Complete |
-| Quotations | Upcoming |
-| Comments | Upcoming |
+| Quotations | Complete |
+| Comments | Complete |
 | Colors | Upcoming |
 | CSS | Upcoming |
 | Links | Upcoming |
