@@ -13,7 +13,7 @@
 | Formatting | Complete |
 | Quotations | Complete |
 | Comments | Complete |
-| Colors | Upcoming |
+| Colors | Complete |
 | CSS | Upcoming |
 | Links | Upcoming |
 | Images | Upcoming |
