@@ -1,4 +1,5 @@
 from multiprocessing.connection import wait
+import numpy as np
 
 bored = 1
 
@@ -12,8 +13,8 @@ print('I see you are pretty bored, what do you want to do?')
 while bored == 1:
 
     print('1 - Wanna see a bunch of numbers?')
-    print('2 - Tits?')
-    print('3 - Skeet')
+    print('2 - Bees?')
+    print('3 - Bees')
     print('4 - Nvm')
 
     a = input('Enter your choice: ')
@@ -22,17 +23,17 @@ while bored == 1:
     if a == 1:
         x = input('How many numbers do you want to see?')
         x = int(x)
-        while x >= 0:
+        while x > 0:
             print(x)
             x = x - 1
 
     if a == 2:
         y = input('How many?')
         y = int(y)
-        print('tits '*y)
+        print('bees? '*y)
 
     if a == 3:
-        print('skeet '*10000)
+        print('bees '*10000)
 
     print('')
     print('Are you still bored?')
