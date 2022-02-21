@@ -7,7 +7,7 @@
 | Conditional Structures | Complete |
 | Functions | Complete |
 | Loops and iterations | Complete |
-| Strings | In progress |
+| Strings | Complete |
 | Files | Upcoming |
 | Lists | Upcoming |
 | Dictionaries | Upcoming |
