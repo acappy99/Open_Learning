@@ -8,7 +8,7 @@
 | Functions | Complete |
 | Loops and iterations | Complete |
 | Strings | Complete |
-| Files | Upcoming |
+| Files | In Progress |
 | Lists | Upcoming |
 | Dictionaries | Upcoming |
 | Tuples | Upcoming |
