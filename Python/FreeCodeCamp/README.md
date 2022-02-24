@@ -10,8 +10,8 @@
 | Strings | Complete |
 | Files | Complete |
 | Lists | Complete |
-| Dictionaries | In Progress |
-| Tuples | Upcoming |
+| Dictionaries | Complete |
+| Tuples | In progress |
 | Expressions | Upcoming |
 | Networking | Upcoming |
 | Web Services | Upcoming |
