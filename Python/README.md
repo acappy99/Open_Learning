@@ -9,5 +9,5 @@
 | Courses | Progress |
 | --- | --- |
 | Scientific computing with python | In progress |
-| Data analysis with Python | Upcoming |
+| Data analysis with Python | In Progress |
 | Machine learning with Python | Upcoming |
