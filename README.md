@@ -16,6 +16,7 @@ In this repository are my resources, courses, notes, exercises, and projects. Fo
 - Git and GitHub
 - JavaScript
 - Solidity
+- HTML & CSS basics
 
 ## Organization of this project
 
