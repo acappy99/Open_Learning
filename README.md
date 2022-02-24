@@ -1,8 +1,6 @@
 # Open Learning
 
-This project is about learning in the open. My background is finance and my experience with computer science is minimal. As I learn, I will document my journey here, which may help someone else on their journey. I believe learning programming in this way will allow me to reflect on my abilities, get help, and become proficent at GitHub.
-
-In this repository are my resources, courses, notes, exercises, and projects. For frequent reference, some roadmaps are included:
+This project is about learning in the open. I am a master's of finance student captivated by FinTech, data, and blockchain technologies. Although I have experience with Python, I want to dive deeper in addition to learning databases, algorithims, and backend development. I plan on documenting my learning journey here, which may potential help others in my situation. Additionally, I hope this project allows me to become profficent at version control and collaboration.
 
 ### Backend Roadmap
 [Roadmap.sh](https://roadmap.sh/backend)
