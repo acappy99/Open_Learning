@@ -8,9 +8,9 @@
 | Functions | Complete |
 | Loops and iterations | Complete |
 | Strings | Complete |
-| Files | In Progress |
-| Lists | Upcoming |
-| Dictionaries | Upcoming |
+| Files | Complete |
+| Lists | Complete |
+| Dictionaries | In Progress |
 | Tuples | Upcoming |
 | Expressions | Upcoming |
 | Networking | Upcoming |
