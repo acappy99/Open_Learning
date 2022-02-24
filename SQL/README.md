@@ -12,6 +12,12 @@
 
 [SQL on Ethereum: How to Work with All the Data from a Transaction](https://ath.mirror.xyz/mbR1n_CvflL1KIKCTG42bnM4HpfGBqDPNndH8mu2eJw)
 
+| Topic | Progress |
+| --- | --- |
+| SELECT, WHERE, LIMIT | Complete |
+| COUNT, SUM, MAX, GROUP BY, HAVING, ORDER BY | Complete |
+| DISTINCT, COUNT DISTINCT | Complete |
+| OUTER, INNER JOIN | In progress |
 
 ### Dune
 [Docs](https://docs.dune.xyz)
