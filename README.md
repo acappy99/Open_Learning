@@ -14,7 +14,6 @@ In this repository are my resources, courses, notes, exercises, and projects. Fo
 - Python
 - SQL
 - Git and GitHub
-- HTML & CSS
 - JavaScript
 - Solidity
 
