@@ -17,7 +17,8 @@
 | SELECT, WHERE, LIMIT | Complete |
 | COUNT, SUM, MAX, GROUP BY, HAVING, ORDER BY | Complete |
 | DISTINCT, COUNT DISTINCT | Complete |
-| OUTER, INNER JOIN | In progress |
+| OUTER, INNER JOIN | Complete |
+| UNION, UNION ALL | Complete |
 
 ### Dune
 [Docs](https://docs.dune.xyz)
