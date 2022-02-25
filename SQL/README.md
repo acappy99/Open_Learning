@@ -23,5 +23,5 @@
 [Docs](https://docs.dune.xyz)
 
 ## Types of Joins
-https://miro.medium.com/max/1400/0*cMd2TQSzYfTHueV-.jpg![image](https://user-images.githubusercontent.com/71903100/155637978-02232970-9249-4276-a228-26f91fcd719e.png)
 
+![0*cMd2TQSzYfTHueV-](https://user-images.githubusercontent.com/71903100/155638098-e35a88cd-b73b-4352-883b-deb82a24cc85.jpeg)
