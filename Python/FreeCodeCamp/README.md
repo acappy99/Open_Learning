@@ -11,8 +11,8 @@
 | Files | Complete |
 | Lists | Complete |
 | Dictionaries | Complete |
-| Tuples | In progress |
-| Expressions | Upcoming |
+| Tuples | Complete |
+| Expressions | In Progress |
 | Networking | Upcoming |
 | Web Services | Upcoming |
 | Objects | Upcoming |
