@@ -3,10 +3,17 @@
 ### FreeCodeCamp
 [YouTube](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
+### postgreSQL
+[Docs](https://www.postgresql.org/docs/current/)
+
 | Topic | Progress |
 | --- | --- |
 | Creating a database | Complete |
 | Create tables | Complete |
+| Creating tables w/o constraints | Complete |
+| Creating tables w/ constraints | Complete |
+| Insert intro | Complete |
+| SELECT FROM | In Progress |
 
 
 ### Andrew Hong
