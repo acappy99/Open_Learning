@@ -12,8 +12,8 @@
 | Lists | Complete |
 | Dictionaries | Complete |
 | Tuples | Complete |
-| Expressions | In Progress |
-| Networking | Upcoming |
+| Regular Expressions | Complete |
+| Networking | In Progress |
 | Web Services | Upcoming |
 | Objects | Upcoming |
 | Relational Databases | Upcoming |
