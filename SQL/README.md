@@ -3,6 +3,12 @@
 ### FreeCodeCamp
 [YouTube](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
+| Topic | Progress |
+| --- | --- |
+| Creating a database | Complete |
+| Create tables | Complete |
+
+
 ### Andrew Hong
 [Part 1](https://towardsdatascience.com/your-guide-to-basic-sql-while-learning-ethereum-at-the-same-time-9eac17a05929)
 
