@@ -18,7 +18,8 @@
 | Distinct | Complete |
 | WHERE | Complete |
 | Comparison operators | Complete |
-| Limit, Offset, & Fetch | In progress |
+| Limit, Offset, & Fetch | Complete |
+| IN | In Progress |
 
 
 ### Andrew Hong
