@@ -13,7 +13,12 @@
 | Creating tables w/o constraints | Complete |
 | Creating tables w/ constraints | Complete |
 | Insert intro | Complete |
-| SELECT FROM | In Progress |
+| SELECT FROM | Complete |
+| ORDER BY | Complete |
+| Distinct | Complete |
+| WHERE | Complete |
+| Comparison operators | Complete |
+| Limit, Offset, & Fetch | In progress |
 
 
 ### Andrew Hong
