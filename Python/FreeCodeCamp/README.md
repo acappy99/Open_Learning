@@ -2,6 +2,7 @@
 
 ## Scientific Computing with Python
 [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python)
+[Exercises](https://www.py4e.com/lessons)
 | Topic | Status |
 | --- | --- |
 | Conditional Structures | Complete |
