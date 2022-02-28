@@ -1,5 +1,7 @@
 # Exercises
 
+[py4e](https://www.py4e.com/lessons)
+
 | Topic | Progress |
 | --- | --- |
 | Variables, expressions, stmts | Complete |
