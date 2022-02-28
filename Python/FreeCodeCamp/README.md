@@ -13,7 +13,7 @@
 | Dictionaries | Complete |
 | Tuples | Complete |
 | Regular Expressions | Complete |
-| Networking | In Progress |
-| Web Services | Upcoming |
+| Networking | Complete |
+| Web Services | In Progress |
 | Objects | Upcoming |
 | Relational Databases | Upcoming |
