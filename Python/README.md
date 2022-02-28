@@ -6,6 +6,8 @@
 ### FreeCodeCamp
 [https://www.freecodecamp.org/learn]
 
+[https://www.py4e.com/lessons]
+
 | Courses | Progress |
 | --- | --- |
 | Scientific computing with python | In progress |
