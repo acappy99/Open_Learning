@@ -44,3 +44,14 @@ SELECT * FROM [table_name] WHERE [column_name] ILIKE 'a%'
 ```
 
 ## GROUP BY
+counting number of rows with same country
+```
+SELECT country_, COUNT(*) FROM person GROUP BY country_
+```
+
+## HAVING
+
+
+
+
+
