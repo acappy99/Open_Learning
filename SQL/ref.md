@@ -146,5 +146,12 @@ SELECT country_, COUNT(*) FROM person GROUP BY country_ HAVING COUNT(*) >= 10 OR
 ```
 
 
-
+## MIN, MAX, AVERAGE, SUM
+```
+SELECT MAX([column_name]) FROM [table_name];
+```
+Find average for groups
+```
+SELECT [column_1], AVERAGE([column_2]) FROM [table_name] GROUP BY [column_1];
+```
 
