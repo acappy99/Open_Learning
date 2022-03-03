@@ -146,7 +146,8 @@ SELECT country_, COUNT(*) FROM person GROUP BY country_ HAVING COUNT(*) >= 10 OR
 ```
 
 
-## MIN, MAX, AVERAGE, SUM
+## Basic Math Operations
+### SUM, MAX, MIN, AVG
 ```
 SELECT MAX([column_name]) FROM [table_name];
 ```
@@ -155,3 +156,16 @@ Find average for groups
 SELECT [column_1], AVERAGE([column_2]) FROM [table_name] GROUP BY [column_1];
 ```
 
+### Basic Arithmetic Operations
+```
++ - * ^ / % !
+```
+Adding new row with calculation
+```
+SELECT id, make, model, price, price*.10, ROUND(price - (price*.10),2) FROM car;
+```
+
+### ROUND
+```
+SELECT ROUND([column_1],[# of decimals]) FROM [table_name];
+```
