@@ -6,20 +6,6 @@
 ### postgreSQL
 [Docs](https://www.postgresql.org/docs/current/)
 
-| Topic | Progress |
-| --- | --- |
-| Creating a database | Complete |
-| Create tables | Complete |
-| Creating tables w/o constraints | Complete |
-| Creating tables w/ constraints | Complete |
-| Insert intro | Complete |
-| SELECT FROM | Complete |
-| ORDER BY | Complete |
-| Distinct | Complete |
-| WHERE | Complete |
-| Comparison operators | Complete |
-| Limit, Offset, & Fetch | Complete |
-| IN | In Progress |
 
 
 ### Andrew Hong
