@@ -210,5 +210,23 @@ test=# SELECT COALESCE(10/NULLIF(0,0),0);
 ```
 
 
-## Timestamps and Dates
 
+## Timestamps and Dates
+### NOW()
+```
+SELECT NOW();
+```
+```
+test=# SELECT NOW()::DATE;
+    now
+------------
+ 2022-03-05
+```
+```
+test=# SELECT NOW()::TIME;
+      now
+----------------
+ 12:13:37.26244
+```
+
+### Adding and Subtracting Time
