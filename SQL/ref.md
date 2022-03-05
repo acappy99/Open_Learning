@@ -169,3 +169,6 @@ SELECT id, make, model, price, price*.10, ROUND(price - (price*.10),2) FROM car;
 ```
 SELECT ROUND([column_1],[# of decimals]) FROM [table_name];
 ```
+
+
+## ALIAS
