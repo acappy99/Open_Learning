@@ -183,3 +183,28 @@ SELECT [column_name] AS [new_column_name] FROM [table_name];
 ```
 SELECT COALESCE([column_name], '[value if null]') FROM [table_name];
 ```
+
+### NULLIF
+How to tackle division by zero; takes two arguments and returns the first argument if the first is not equal to the second
+```
+test=# SELECT 10/0;
+ERROR:  division by zero
+```
+```
+test=# SELECT 10/NULLIF(2,0);
+ ?column?
+----------
+        5
+```
+```
+test=# SELECT 10/NULLIF(0,0);
+ ?column?
+----------
+
+```
+```
+test=# SELECT COALESCE(10/NULLIF(0,0),0);
+ coalesce
+----------
+        0
+```
