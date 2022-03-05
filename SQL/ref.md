@@ -172,3 +172,14 @@ SELECT ROUND([column_1],[# of decimals]) FROM [table_name];
 
 
 ## ALIAS
+If you don't specify a column name, postgres will default to the function name or question marks
+
+### ALIAS
+```
+SELECT [column_name] AS [new_column_name] FROM [table_name];
+```
+## NULL
+### COALESCE
+```
+SELECT COALESCE([column_name], '[value if null]') FROM [table_name];
+```
