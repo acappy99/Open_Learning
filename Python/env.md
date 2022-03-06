@@ -58,6 +58,12 @@ You want environments to be something that can be thrown away and rebuilt, so do
 Further, don't commit your environment to source control (git ignore), but you do commit the requirements.txt
 
 ## venv with global packages
+Probably not best practice?
 ```
 python3 -m venv [venv_name] --system-site-packages
+```
+Additional packages installed will still not effect the global installations
+### Check local installations
+```
+pip list --local
 ```
