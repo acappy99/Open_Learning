@@ -15,3 +15,10 @@ Each language I am learning is contained in a folder, including a README.md for 
 - HTML & CSS basics
 
 ### Python & SQL
+Becoming proficient at Python and SQL is integral to efficient data analysis and algorithm development to provide valuable insights and automate processes.
+
+### JavaScript & Solidity
+JavaScript powers over 97% of websites and is the core tech that makes interaction with the Internet possible. Solidity is the programming language, similar to JavaScript, powering smart contracts on the Ethereum blockchain. Learning these two languages will allow me to understand the Internet work more intertwined with technical teams and engineers while also being able to assist in the development and support the integrity of blockchain technology.
+
+### HTML & CSS
+My goals in using HTML and CSS are primarily personal out of interest and improving this website.
