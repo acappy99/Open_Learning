@@ -54,4 +54,10 @@ python3 -m venv [project_name]/venv
 
 source [project_name]/venv/bin/activate
 ```
-Do not put project files in the virtual environment
+You want environments to be something that can be thrown away and rebuilt, so do not put project files in the virtual environment
+Further, don't commit your environment to source control (git ignore), but you do commit the requirements.txt
+
+## venv with global packages
+```
+python3 -m venv [venv_name] --system-site-packages
+```
