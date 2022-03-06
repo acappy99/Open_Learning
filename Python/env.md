@@ -1,26 +1,56 @@
-# Python Environment
+# Setting up virtual environment
 
-## Read these
-(Mark Jamison Pt 1)[https://towardsdatascience.com/what-is-a-python-environment-for-beginners-7f06911cf01a]
+(venv tutorial)[https://www.youtube.com/watch?v=Kg1Yvry_Ydk]
 
-(Mark Jamison Pt 2)[https://towardsdatascience.com/python-the-system-path-and-how-conda-and-pyenv-manipulate-it-234f8e8bbc3e]
-
-
-
+### Create virtual environment
 ```
->>> import sys
->>> sys.prefix
-'/Library/Frameworks/Python.framework/Versions/3.10'
-
->>> import site
->>> site.getsitepackages()
-['/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages']
+python3 -m venv [virtual_env_name]
 ```
-
-### Running pip as a module
-
-When you run your system pip directly, the command itself doesn’t reveal which Python version pip belongs to. This unfortunately means that you could use pip to install a package into the site-packages of an old Python version without noticing. To prevent this from happening, you can run pip as a Python module:
+'-m' searches sys.path for specified module and runs that as the main module
+#### Activate virtual environment
 ```
-python3 -m pip
+source [virtual_env_name]/bin/activate
+```
+#### Which python you are using (path)
+```
+which python
+```
+#### Check packages
+```
+pip list
 ```
 
+### Export/import packages for a specific env
+#### Export
+Using a requirements.txt
+```
+pip freeze > requirements.txt
+```
+Check the export
+```
+cat requirements.txt
+```
+#### Import
+```
+pip install -r requirements.txt
+```
+
+### Deactivate env
+```
+deactivate
+```
+#### Delete env
+```
+rm -rf project_env/
+```
+
+## Typical convention
+
+Create environment in project folder and name it 'venv'
+```
+mkdir [project name]
+
+python3 -m venv [project_name]/venv
+
+source [project_name]/venv/bin/activate
+```
