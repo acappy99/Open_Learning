@@ -54,3 +54,4 @@ python3 -m venv [project_name]/venv
 
 source [project_name]/venv/bin/activate
 ```
+Do not put project files in the virtual environment
