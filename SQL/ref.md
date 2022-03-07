@@ -229,4 +229,70 @@ test=# SELECT NOW()::TIME;
  12:13:37.26244
 ```
 
-### Adding and Subtracting Time
+### Adding and Subtracting Dates
+Returning timestamp examples
+```
+SELECT NOW() + INTERVAL '10 YEARS';
+SELECT NOW() - INTERVAL '1 DAY';
+SELECT NOW() - INTERVAL '2 MONTHS';
+```
+Return date instead of timestamp
+```
+SELECT (NOW() + INTERVAL '1 YEAR')::DATE;
+```
+
+### Extracting fields from timestamp
+Month, Day, Day of Week, Century -- respectively
+```
+SELECT EXTRACT(MONTH FROM NOW());
+SELECT EXTRACT(DAY FROM NOW());
+SELECT EXTRACT(DOW FROM NOW());
+SELECT EXTRACT(CENTURY FROM NOW());
+```
+
+### Age function
+```
+SELECT [name], [date_of_birth], AGE(NOW(), [date_of_birth]) AS [new_col_name] FROM [table_name];
+```
+
+
+## Primary keys
+Uniquely identify a record in tables, i.e. a passport number
+
+### Drop primary key
+i.e. dropping primary key
+```
+ALTER TABLE [table_name] DROP CONSTRAINT [table_name]_key;
+```
+### Add primary key
+Every row must be unique in the primary key column
+```
+ALTER TABLE [table_name] ADD PRIMARY KEY([column_name])
+```
+
+
+## Unique constraint
+### Add unique constraint
+You name the constraint
+```
+ALTER TABLE [table_name] ADD CONSTRAINT [constraint_name] UNIQUE ([column_name]);
+```
+Let postgreSQL name the constraint
+```
+ALTER TABLE [table_name] ADD UNIQUE ([column_name]);
+```
+
+### Drop constraint
+```
+ALTER TABLE [table_name] DROP CONSTRAINT [constraint_name];
+```
+
+
+## Check constraint
+Can use AND/OR in the CHECK function
+```
+ALTER TABLE [table_name] ADD CONSTRAINT [constraint_name] CHECK ([column_name] = 'value')
+```
+
+
+## Update/Delete records
