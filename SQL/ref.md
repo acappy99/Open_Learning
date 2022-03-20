@@ -178,6 +178,10 @@ If you don't specify a column name, postgres will default to the function name o
 ```
 SELECT [column_name] AS [new_column_name] FROM [table_name];
 ```
+### Alternative
+```
+SELECT [column_name] "Alt Name", [column2_name] "Alt Name" FROM [table_name];
+```
 ## NULL
 ### COALESCE
 ```
