@@ -2,6 +2,7 @@
 
 ### Python Docs
 [Python](https://docs.python.org/3/)
+
 [Pandas](https://pandas.pydata.org/docs/)
 
 ### FreeCodeCamp
