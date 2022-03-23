@@ -1,7 +1,8 @@
 # Python
 
 ### Python Docs
-[https://docs.python.org/3/]
+[Python](https://docs.python.org/3/)
+[Pandas](https://pandas.pydata.org/docs/)
 
 ### FreeCodeCamp
 [https://www.freecodecamp.org/learn]
