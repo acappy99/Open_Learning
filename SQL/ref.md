@@ -92,7 +92,7 @@ FETCH FIRST 10 ROWS
 ```
 
 ### SUBSET
-Getting limited number of characters from columns; following returns first three characters from each row of specified column
+Getting limited number of characters from columns; following returns first three characters from each row of specified column. The '1' specifies to return the first three characters, whereas remvoing the argument returns only characters after the first three (removes the first three characters and returns the resulting value).
 ```
 SELECT SUBSTRING([column_name],1,3) FROM [table_name];
 ```
