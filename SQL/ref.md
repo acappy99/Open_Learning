@@ -91,6 +91,12 @@ OFFSET
 FETCH FIRST 10 ROWS
 ```
 
+### SUBSET
+Getting limited number of characters from columns; following returns first three characters from each row of specified column
+```
+SELECT SUBSTRING([column_name],1,3) FROM [table_name];
+```
+
 ### IN
 The hard way:
 ```
